@@ -1,5 +1,5 @@
 # bios_burn
-A simple bios bootloader program intended to very quickly and non-interactively wipe a partition table on a hard drive. Mostly intended to speed things up on an IT job where a non-secure "wipe" of a hard drive that takes seconds is desired, such as with the imaging of large batches of computers.
+A simple 8086 bios bootloader program intended to very quickly and non-interactively wipe a partition table on a hard drive. Mostly intended to speed things up on an IT job where a non-secure "wipe" of a hard drive that takes seconds is desired, such as with the  manual imaging of large batches of computers.
 
 This project uses the gnu assembler in intel x86 syntax and qemu as a quick-turn testing platform. 
 
