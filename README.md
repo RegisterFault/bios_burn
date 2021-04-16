@@ -1,3 +1,6 @@
+#Note
+I never actually finished this project, all I have committed is a test program that prints hello world to bios. I still needed to look up the bios interrupts needed to access the primary drive and send zeros to it.
+
 # bios_burn
 A simple 8086 bios bootloader program intended to very quickly and non-interactively wipe a partition table on a hard drive. Mostly intended to speed things up on an IT job where a non-secure "wipe" of a hard drive that takes seconds is desired, such as with the  manual imaging of large batches of computers.
 
