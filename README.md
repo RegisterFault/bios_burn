@@ -1,4 +1,4 @@
-#Note
+# Note
 I never actually finished this project, all I have committed is a test program that prints hello world to bios. I still needed to look up the bios interrupts needed to access the primary drive and send zeros to it.
 
 # bios_burn
